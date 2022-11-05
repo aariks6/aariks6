@@ -1,0 +1,4 @@
+- 👋 Hi, I’m aariks6
+- 👀 I’m interested in making my own game and programs on Flipper Zero
+- 🌱 I’m currently learning everything about code
+- 📫 How to reach me aarik@o2.pl
